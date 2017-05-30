@@ -1,0 +1,23 @@
+{
+  "name": "DOM-tree-fs-module",
+  "version": "1.0.0",
+  "description": "Testing",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jurrish/DOM-tree-fs-module.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jurrish/DOM-tree-fs-module/issues"
+  },
+  "homepage": "https://github.com/jurrish/DOM-tree-fs-module#readme"
+}
